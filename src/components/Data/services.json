@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "name1": "Search engine",
-        "name2": "optimization",
+        "name1": "Zoekmachine",
+        "name2": "optimalisatie",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
@@ -10,8 +10,8 @@
     },
     {
         "id": 2,
-        "name1": "Pay-per-click",
-        "name2": "advertising",
+        "name1": "Online",
+        "name2": "adverteren",
         "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "name1": "Email",
+        "name1": "E-mail",
         "name2": "Marketing",
         "background": "h-[310px] p-12 bg-zinc-100 rounded-[45px] shadow border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
@@ -37,8 +37,7 @@
     },
     {
         "id": 5,
-        "name1": "Content",
-        "name2": "Creation",
+        "name1": "Contentcreatie",
         "background": "h-[310px] p-12 bg-lime rounded-[45px] shadow border border-black justify-between items-center flex text-black",
         "arrow": "./services/ag.svg",
         "link": "./",
@@ -46,7 +45,7 @@
     },
     {
         "id": 6,
-        "name1": "Analytics and",
+        "name1": "Analytics &",
         "name2": "Tracking",
         "background": "h-[310px] p-12 bg-black rounded-[45px] shadow border border-black justify-between items-center flex text-white",
         "arrow": "./services/aw.svg",
